@@ -7,7 +7,7 @@ clone the repo to your machine
 ### using this cmd
     git clone https://github.com/NithinTLC/ramp_up_python.git
 ### change into project directory
-    cd TASK2
+    cd ramp_up_python   #check which dir u have the file before running the file
 ### Install python in your system
 
 ### run this cmd to run the py file
