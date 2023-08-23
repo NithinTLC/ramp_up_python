@@ -11,4 +11,6 @@ clone the repo to your machine
 ### Install python in your system
 
 ### run this cmd to run the py file
-    py Pyhton_task_1.py
+    py Python_task_1.py
+    py task_2.py
+    py task_3.py
