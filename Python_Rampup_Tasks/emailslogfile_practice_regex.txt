@@ -1,0 +1,39 @@
+Log File: Sample Text with Email Addresses
+
+Sample Text:
+
+Hello,
+
+Thank you for your interest in our products. If you have any questions, please don't hesitate to contact our customer service team at customer.service@example.org.
+
+For sales inquiries, you can reach out to our sales team at sales-team@companyname.com. Our webmaster can be contacted at webmaster@web-domain.net for website-related issues.
+
+If you need technical support, please send an email to support@my-site.info. To get in touch with our business team, use contact@business-name.co.uk.
+
+User accounts can be managed by emailing user123@subdomain.example, and website administration inquiries should be sent to admin@website-name.org.
+
+For marketing collaborations, please contact marketing@your-company.net. General information can be obtained by emailing info@yourdomain.com.
+
+To reach our support team, use contact_us@sample-site.io. For IT help desk support, send an email to help.desk@email-domain.co. 
+
+John Doe's contact is john_doe@email-domain.com, and our developers can be reached at developer@web-app.net. Billing inquiries should be directed to billing@company-site.org.
+
+For product-related inquiries, please contact.sales@product.com. If you receive a "no-reply" email from us, it will be sent from no-reply@example.co.uk.
+
+Your username for our platform is username123@email.co. We value your feedback, so please share it with us at feedback@my-website.io.
+
+User.name's email address is user.name@email-domain.com, and you can contact our support team at support-team@businessname.net. 
+
+To learn more about our services, visit our website at www.example.com or email contact.me@webpage.co. 
+
+Hello, we are here to assist you. For inquiries, please send an email to hello@domain-name.org.
+
+Additional information can be found at info123@sub-domain.net. Our customer support team can be reached at customer-support@email-site.info.
+
+For marketing opportunities, contact our marketing team at marketing-team@company.org. Sample user's email is sample.user@email-provider.com.
+
+Service-related inquiries should be directed to service@web-app.co.uk. For general contact, use contact@your-domain.org.
+
+Contact123 can be reached at contact123@web-domain.com, and support services can be accessed at support-service@email-provider.net.
+
+Feel free to use this log file to work on your regex pattern matching to extract the email addresses from the sample text. If you have any further questions or need assistance with regex patterns, please let me know.
